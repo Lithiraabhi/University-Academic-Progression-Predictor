@@ -1,1 +1,1 @@
-# -University-Academic-Progression-Predictor
+# University-Academic-Progression-Predictor
